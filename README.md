@@ -42,7 +42,7 @@ automatele primite ca parametru.
 
 **4. Conversie la Automat Finit Determinist**
 
-Acesta mi s-a parut cel mai greu pas al temei. A fost foarte dificil sa
+Acesta mi s-a parut cel mai greu pas al proiectului. A fost foarte dificil sa
 implementez o functie de conversie de la NFA la DFA, insa dupa mult chin
 am reusit sa construiesc DFA-ul pornind de la NFA si modificand putin
 clasa DFA oferita in schelet. Ideea conversiei este cea predata la curs.
